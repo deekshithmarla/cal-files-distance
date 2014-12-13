@@ -12,6 +12,7 @@ import java.util.TreeSet;
 
 public class CalDistanceBetweenFiles {
 
+	
 	public static final int NUM_OF_FILES = 2;
 	public static final int SQUARED = 2;
 
@@ -20,7 +21,7 @@ public class CalDistanceBetweenFiles {
 		double startTime = System.nanoTime();
 
 		if (args.length != NUM_OF_FILES) {
-			System.out.println("Usage: java ComputeDistanceBetween pathToFile1.txt pathTofile2.txt");
+			System.out.println("Usage: java ComputeDistanceBetween File1.txt File2.txt");
 			return;
 		}
 

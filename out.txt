@@ -1,7 +1,7 @@
 ./file1.txt : Lines: 9. Total words: 54. Distinct words: 38.
 ./file2.txt : Lines: 1063. Total words: 2923. Distinct words: 985.
 The distance between the documents is: 1.567862 radians.
-Time elapsed: 0.10 seconds.
+Time elapsed: 0.27 seconds.
 2 : [./file2.txt=1]
 3 : [./file2.txt=1]
 3d : [./file2.txt=3]
